@@ -157,3 +157,9 @@ Open your browser and navigate to:
   - Username: `operator`
   - Password: `operator123`
   - Privileges: Station crowd monitoring, schedule status updates, AI prediction
+
+
+---
+
+## 📄 License
+This project is open-source under the MIT License.
